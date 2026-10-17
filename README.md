@@ -12,8 +12,13 @@ A few resources to get you started if this is your first Flutter project:
 <p align="center">
   <img src="WhatsApp Image 2026-10-18 at 03.39.01.jpeg"  width="50%"/>
   <img src="WhatsApp Image 2026-10-18 at 03.39.00.jpeg"  width="50%"/>
-  <img src="WhatsApp Image 2026-10-18 at 03.39.00 (1).jpeg
-"  width="50%"/>
+  <img src="WhatsApp Image 2026-10-18 at 03.39.00 (1).jpeg"  width="50%"/>
+    <img src="WhatsApp Image 2026-10-18 at 03.39.01 (1).jpeg"  width="50%"/>
+  <img src="WhatsApp Image 2026-10-18 at 03.39.00 (2).jpeg"  width="50%"/>
+    <img src="WhatsApp Image 2026-10-18 at 03.38.59.jpeg"  width="50%"/>
+  <img src="WhatsApp Image 2026-10-18 at 03.38.59 (2).jpeg"  width="50%"/>
+   <img src="WWhatsApp Image 2026-10-18 at 03.38.59 (1).jpeg"  width="50%"/>
+  <img src="WhatsApp Image 2026-10-18 at 03.38.58.jpeg"  width="50%"/>
 </p>
 
 <h2 align="center">Flutter Batch 02 Assignment</h2>
