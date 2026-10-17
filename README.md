@@ -76,7 +76,7 @@ Explore the application screens below. Screenshots are arranged in rows of three
       <b>Screen 07</b>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/WWhatsApp%20Image%202026-10-18%20at%2003.38.59%20(1).jpeg" width="100%" alt="App Screen 8"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.38.59%20(1).jpeg" width="100%" alt="App Screen 8"/>
       <br/>
       <b>Screen 08</b>
     </td>
