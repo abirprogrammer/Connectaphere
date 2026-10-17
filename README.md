@@ -7,11 +7,125 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+# Flutter Batch 02 Assignment
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<p align="center">
+  <img src="WhatsApp Image 2026-10-16 at 01.20.48.jpeg"  width="50%"/>
+  <img src="WhatsApp Image 2026-10-16 at 01.20.48 (1).jpeg"  width="50%"/>
+  <img src="Screenshot 2026-10-16 013450.png"  width="50%"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2 align="center">Flutter Batch 02 Assignment</h2>
+
+<p align="center">
+  A modern Flutter application built with Flutter and Dart.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Framework-02569B?logo=flutter" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Language-Dart-0175C2?logo=dart" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Platform-Android-green" alt="Android"/>
+</p>
+
+---
+
+## 📱 About the Project
+
+This project was developed as part of the Flutter Batch 02 assignment. It focuses on building a clean, user-friendly mobile application using Flutter, Dart, and reusable UI components.
+
+## ✨ Features
+
+- Modern and clean user interface
+- Reusable Flutter widgets
+- Organized code structure
+- User-friendly screen layouts
+- Android application support
+
+## 🖼️ App Screenshots
+
+### Screen 1 — Home Screen
+
+<p align="center">
+  <img src="screenshorr.png" alt="Home Screen" width="280"/>
+</p>
+
+### Screen 2 — Profile Screen
+
+<p align="center">
+  <img src="screenshots/profile_screen.png" alt="Profile Screen" width="280"/>
+</p>
+
+### Screen 3 — Details Screen
+
+<p align="center">
+  <img src="screenshots/details_screen.png" alt="Details Screen" width="280"/>
+</p>
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Android Studio or Visual Studio Code
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/abirprogrammer/Flutter_Batch_02_Assignment.git
+```
+
+**2. Open the project folder**
+
+```bash
+cd Flutter_Batch_02_Assignment
+```
+
+**3. Install dependencies**
+
+```bash
+flutter pub get
+```
+
+**4. Run the application**
+
+```bash
+flutter run
+```
+
+## 📂 Project Structure
+
+```text
+Flutter_Batch_02_Assignment/
+├── lib/
+├── screenshots/
+│   ├── profile_screen.png
+│   └── details_screen.png
+├── screenshorr.png
+├── pubspec.yaml
+└── README.md
+```
+
+## 👨‍💻 Author
+
+**Md. Abir Bin Kabir**
+
+GitHub: [@abirprogrammer](https://github.com/abirprogrammer)
+
+## 📄 License
+
+Created for educational and learning purposes.
+
+---
+
+<p align="center">
+  Made with ❤️ using Flutter
+</p>
