@@ -37,41 +37,41 @@ Explore the application screens below. Screenshots are arranged in rows of three
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="screenshots/WhatsApp%20Image%202026-10-18%20at%2003.39.01.jpeg" width="100%" alt="App Screen 1"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.39.01.jpeg" width="100%" alt="App Screen 1"/>
       <br/>
       <b>Screen 01</b>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/WhatsApp%20Image%202026-10-18%20at%2003.39.00.jpeg" width="100%" alt="App Screen 2"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.39.00.jpeg" width="100%" alt="App Screen 2"/>
       <br/>
       <b>Screen 02</b>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/WhatsApp%20Image%202026-10-18%20at%2003.39.00%20(1).jpeg" width="100%" alt="App Screen 3"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.39.00%20(1).jpeg" width="100%" alt="App Screen 3"/>
       <br/>
       <b>Screen 03</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="screenshots/WhatsApp%20Image%202026-10-18%20at%2003.39.01%20(1).jpeg" width="100%" alt="App Screen 4"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.39.01%20(1).jpeg" width="100%" alt="App Screen 4"/>
       <br/>
       <b>Screen 04</b>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/WhatsApp%20Image%202026-10-18%20at%2003.39.00%20(2).jpeg" width="100%" alt="App Screen 5"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.39.00%20(2).jpeg" width="100%" alt="App Screen 5"/>
       <br/>
       <b>Screen 05</b>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/WhatsApp%20Image%202026-10-18%20at%2003.38.59.jpeg" width="100%" alt="App Screen 6"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.38.59.jpeg" width="100%" alt="App Screen 6"/>
       <br/>
       <b>Screen 06</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="screenshots/WhatsApp%20Image%202026-10-18%20at%2003.38.59%20(2).jpeg" width="100%" alt="App Screen 7"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.38.59%20(2).jpeg" width="100%" alt="App Screen 7"/>
       <br/>
       <b>Screen 07</b>
     </td>
@@ -81,7 +81,7 @@ Explore the application screens below. Screenshots are arranged in rows of three
       <b>Screen 08</b>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/WhatsApp%20Image%202026-10-18%20at%2003.38.58.jpeg" width="100%" alt="App Screen 9"/>
+      <img src="WhatsApp%20Image%202026-10-18%20at%2003.38.58.jpeg" width="100%" alt="App Screen 9"/>
       <br/>
       <b>Screen 09</b>
     </td>
